@@ -1,0 +1,6 @@
+
+2.en pascante
+3.End of game status message checkmate,stalemate,timeout//done
+4.Stop game after game end//done
+5.play again option//done
+6.ask how much time you want//done
